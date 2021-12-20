@@ -1,0 +1,36 @@
+QANA does not only utilize the temporal information associated
+with a question, but also exploits timestamp metadata of documents and the temporal
+information embedded in document content.  
+
+*****what if document created later but includes informaton about past?
+
+
+################################
+
+QA models are mainly designed for answering questions over synchronic
+document collections like wiki pedia...
+
+A synchronic approach (from Ancient Greek: συν- "together" and χρόνος "time") considers a language at a moment in time without taking its history into account
+
+
+?????  synchronic ?
+
+The studies almost all about sycnronic document but a few which uses rule based models and the performance are poor...
+#######################
+
+Moreover, we carefully construct a larger test
+set of questions belonging to the two question types.
+
+???? how? Was it done manually?
+#####################
+
+document ranking....
+
+
+
+####################
+
+is the model shared?
+
+####################3
+
